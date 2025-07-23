@@ -1,0 +1,4 @@
+furkan,furkan
+ahmet,mehmet
+ayse,fatma
+omer,faruk
